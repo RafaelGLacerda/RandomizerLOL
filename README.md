@@ -4,7 +4,7 @@ Um projeto simples e divertido feito com **HTML, CSS e JavaScript puro**, que ge
 
 ---
 
-[**LoL Random**](https://rafaelglacerda.github.io/random_lol_all_champion/)
+[**LoL Random**](https://rafaelglacerda.github.io/RandomizerLOL/)
 
 ---
 
